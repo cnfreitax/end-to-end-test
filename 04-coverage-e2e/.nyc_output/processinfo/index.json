@@ -1,0 +1,1 @@
+{"processes":{"2d1d3db6-b397-47cd-9791-531aedda952b":{"parent":null,"children":["dfed4ac4-99b1-4faf-ac9c-07fc792af280"]},"dfed4ac4-99b1-4faf-ac9c-07fc792af280":{"parent":"2d1d3db6-b397-47cd-9791-531aedda952b","children":[]}},"files":{"C:\\Users\\Victor Freitas\\Documents\\projects\\js-expert\\04-coverage-e2e\\api.js":["dfed4ac4-99b1-4faf-ac9c-07fc792af280"]},"externalIds":{}}
